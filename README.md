@@ -1,3 +1,10 @@
+# devops-capstone-project
+
+This repository contains the Sprint 0 (planning phase) artifacts for a DevOps
+capstone project. The goal of this project is to plan a customer accounts
+microservice using Agile methodology and GitHub Projects before starting
+development.
+
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
